@@ -1,0 +1,31 @@
+{
+  "proot": {
+    "url": "https://packages.termux.dev/apt/termux-main/pool/main/p/proot/proot_5.1.107.98_aarch64.deb",
+    "sha256": "29de40efea4daa2a6168b617915206511c63e8d46bf5f4b07d48723441ef7f3b"
+  },
+  "libtalloc": {
+    "url": "https://packages.termux.dev/apt/termux-main/pool/main/libt/libtalloc/libtalloc_2.5.0_aarch64.deb",
+    "sha256": "556591f43bb773ad8777e1a29522640866a55f95dab71914418b94a8c58ad5a7"
+  },
+  "libandroid-shmem": {
+    "url": "https://packages.termux.dev/apt/termux-main/pool/main/liba/libandroid-shmem/libandroid-shmem_0.7_aarch64.deb",
+    "sha256": "0da3a24d558b93c92bcf8d611e0826a99ff96e396b148e6cdf33b47c47c57ff6"
+  },
+  "alpine": {
+    "url": "https://dl-cdn.alpinelinux.org/alpine/v3.23/releases/aarch64/alpine-minirootfs-3.23.7-aarch64.tar.gz",
+    "sha256": "7dcc7420bcc426a615c0512cc85b4a52e9f89df9c600b93ce78d22e0e9234891",
+    "packages": [
+      "bash",
+      "ca-certificates",
+      "curl",
+      "git",
+      "python3",
+      "py3-pip",
+      "ripgrep",
+      "openssh-client-default",
+      "sshpass",
+      "coreutils"
+    ]
+  },
+  "image_sha256": "1b1ad94478d6ea9e2175302039076601d2b50f802b13470bc56157d055ddcbd9"
+}

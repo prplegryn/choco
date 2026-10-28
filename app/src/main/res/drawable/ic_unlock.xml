@@ -1,0 +1,6 @@
+<!-- Lucide Icons. ISC / Feather MIT. See assets/lucide-license.txt. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="24dp" android:height="24dp" android:viewportWidth="24" android:viewportHeight="24">
+    <path android:fillColor="@android:color/transparent" android:strokeColor="#222326" android:strokeWidth="1.75" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M11 16 a1 1 0 1 0 2 0 a1 1 0 1 0 -2 0 Z" />
+    <path android:fillColor="@android:color/transparent" android:strokeColor="#222326" android:strokeWidth="1.75" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M5 10 H19 Q21 10 21 12 V20 Q21 22 19 22 H5 Q3 22 3 20 V12 Q3 10 5 10 Z" />
+    <path android:fillColor="@android:color/transparent" android:strokeColor="#222326" android:strokeWidth="1.75" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M7 10V7a5 5 0 0 1 9.33-2.5" />
+</vector>

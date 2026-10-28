@@ -1,0 +1,44 @@
+{
+  "tag": "runtime-v1",
+  "asset": "runtime-arm64-v1.zip",
+  "sha256": "42aef449ac43f25139218e242fdba7344f1a529059c029fa6ad79903ea821953",
+  "files": {
+    "app/src/main/assets/runtime.zip": "1b1ad94478d6ea9e2175302039076601d2b50f802b13470bc56157d055ddcbd9",
+    "app/src/main/assets/runtime-provenance.json": "e82fc521ed84248fa25c2b29868d06ee998a2b09ac06c7f589cf95520093ba77",
+    "app/src/main/jniLibs/arm64-v8a/libandroid-shmem.so": "84475798e07c8174dbbfaec70a827fdb02f19ffa69a589380c13e7507fd0e731",
+    "app/src/main/jniLibs/arm64-v8a/libproot-loader.so": "1da54355333cca3fb6ee10e3b82a24df24fb230c99241ce83809bf9e240609b5",
+    "app/src/main/jniLibs/arm64-v8a/libproot.so": "68f1280728dd5e108f59c1a878f97b176e85e00e197ec0e68a5a47b0b0016b2e",
+    "app/src/main/jniLibs/arm64-v8a/libtalloc.so": "160d39bc0d7ed946f22310d1d6f20addda21b02b0972dffe929fe49951543941"
+  },
+  "provenance": {
+    "proot": {
+      "url": "https://packages.termux.dev/apt/termux-main/pool/main/p/proot/proot_5.1.107.98_aarch64.deb",
+      "sha256": "29de40efea4daa2a6168b617915206511c63e8d46bf5f4b07d48723441ef7f3b"
+    },
+    "libtalloc": {
+      "url": "https://packages.termux.dev/apt/termux-main/pool/main/libt/libtalloc/libtalloc_2.5.0_aarch64.deb",
+      "sha256": "556591f43bb773ad8777e1a29522640866a55f95dab71914418b94a8c58ad5a7"
+    },
+    "libandroid-shmem": {
+      "url": "https://packages.termux.dev/apt/termux-main/pool/main/liba/libandroid-shmem/libandroid-shmem_0.7_aarch64.deb",
+      "sha256": "0da3a24d558b93c92bcf8d611e0826a99ff96e396b148e6cdf33b47c47c57ff6"
+    },
+    "alpine": {
+      "url": "https://dl-cdn.alpinelinux.org/alpine/v3.23/releases/aarch64/alpine-minirootfs-3.23.7-aarch64.tar.gz",
+      "sha256": "7dcc7420bcc426a615c0512cc85b4a52e9f89df9c600b93ce78d22e0e9234891",
+      "packages": [
+        "bash",
+        "ca-certificates",
+        "curl",
+        "git",
+        "python3",
+        "py3-pip",
+        "ripgrep",
+        "openssh-client-default",
+        "sshpass",
+        "coreutils"
+      ]
+    },
+    "image_sha256": "1b1ad94478d6ea9e2175302039076601d2b50f802b13470bc56157d055ddcbd9"
+  }
+}

@@ -1,0 +1,9 @@
+<!-- Lucide Icons. ISC / Feather MIT. See assets/lucide-license.txt. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="24dp" android:height="24dp" android:viewportWidth="24" android:viewportHeight="24">
+    <path android:fillColor="@android:color/transparent" android:strokeColor="#222326" android:strokeWidth="1.75" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M12 8V4H8" />
+    <path android:fillColor="@android:color/transparent" android:strokeColor="#222326" android:strokeWidth="1.75" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M6 8 H18 Q20 8 20 10 V18 Q20 20 18 20 H6 Q4 20 4 18 V10 Q4 8 6 8 Z" />
+    <path android:fillColor="@android:color/transparent" android:strokeColor="#222326" android:strokeWidth="1.75" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M2 14h2" />
+    <path android:fillColor="@android:color/transparent" android:strokeColor="#222326" android:strokeWidth="1.75" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M20 14h2" />
+    <path android:fillColor="@android:color/transparent" android:strokeColor="#222326" android:strokeWidth="1.75" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M15 13v2" />
+    <path android:fillColor="@android:color/transparent" android:strokeColor="#222326" android:strokeWidth="1.75" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M9 13v2" />
+</vector>

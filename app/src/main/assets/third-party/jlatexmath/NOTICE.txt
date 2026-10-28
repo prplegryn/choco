@@ -1,0 +1,6 @@
+JLaTeXMath Android 0.2.0 and Greek font package
+Source: https://github.com/noties/jlatexmath-android/tree/android
+
+Copyright belongs to the upstream authors as identified in the source.
+The library is used unmodified under GPL 2 or later with its linking exception.
+Font-specific notices are also included in the library font assets.
